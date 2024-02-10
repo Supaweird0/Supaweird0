@@ -2,7 +2,7 @@
 
 I'm a passionate web designer and developer based in South Africa. Here's a bit about me:
 
-- 💻 I specialize in frontend development.
+- I specialize in frontend development.
 - I'm currently learning the MERN stack.
 - Check out my portfolio
 
