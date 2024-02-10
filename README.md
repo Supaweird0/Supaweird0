@@ -10,10 +10,14 @@ I'm a passionate web designer and developer based in South Africa. Here's a bit 
 
 Here are some of the technologies and tools I work with:
 
-- **Programming Languages:** `HTML & CSS` `Javascript` `Java` `C++`
+- **Programming Languages:** `HTML & CSS` `Javascript` `PHP` `Java` `C++`
 - **Frameworks & Libraries:** `React` `jQuery`
 - **Databases:** `MySQL`
 - **Tools & Platforms:** `GitHub` `Visual Studio Code`
+
+Technologies I am in the process of learning:
+- Next.js, Node.js
+- Backend development
 
 ## ⚡ Fun Facts
 
