@@ -16,7 +16,7 @@ Here are some of the technologies and tools I work with:
 - **Tools & Platforms:** `GitHub` `Visual Studio Code`
 
 Technologies I am in the process of learning:
-- Next.js, Node.js
+- `Next.js` `Node.js`
 - Backend development
 
 ## ⚡ Fun Facts
