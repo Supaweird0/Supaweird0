@@ -1,4 +1,28 @@
-### Hi there 👋
+### 👋 Hi there, I'm Asa
+
+I'm a passionate web designer and developer based in South Africa. Here's a bit about me:
+
+- 💻 I specialize in frontend development.
+- I'm currently learning the MERN stack.
+- Check out my portfolio
+
+## 🛠️ Technologies & Tools
+
+Here are some of the technologies and tools I work with:
+
+- **Programming Languages:** `HTML & CSS` `Javascript` `Java` `C++`
+- **Frameworks & Libraries:** `React` `jQuery`
+- **Databases:** `MySQL`
+- **Tools & Platforms:** `GitHub` `Visual Studio Code`
+
+## ⚡ Fun Facts
+
+- I nearly pursued a degree in fine arts
+- Demon Slayer is my favorite anime.
+- I would love to travel to South Korea, Greece and Singapore
+
+
+For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/asa-siphuma-07397b262/).
 
 <!--
 **Supaweird0/Supaweird0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
