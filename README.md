@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Asa
+### Hi there, I'm Asa
 
 I'm a passionate web designer and developer based in South Africa. Here's a bit about me:
 
@@ -6,7 +6,7 @@ I'm a passionate web designer and developer based in South Africa. Here's a bit 
 - I'm currently learning the MERN stack.
 - Check out my portfolio
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 Here are some of the technologies and tools I work with:
 
