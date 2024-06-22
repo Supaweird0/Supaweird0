@@ -11,14 +11,22 @@ I'm a passionate web designer and developer based in South Africa. Here's a bit 
 Here are some of the technologies and tools I work with:
 
 - **Programming Languages:** `HTML & CSS` `Javascript` `PHP` `Java` `C++`
-- **Frameworks & Libraries:** `jQuery`
+- **Frameworks & Libraries:** `jQuery` `React`
 - **Databases:** `MySQL`
 - **Tools & Platforms:** `GitHub` `Visual Studio Code`
 
-Technologies I am in the process of learning:
+Technologies/concepts I am in the process of learning:
 - `Next.js` `Node.js`
-- `React`
-- Backend development
+- `React` 
+- Testing with Cypress
+- End-to-end testing, integration testing
+
+## Things I learned in 2024 (so far)
+- React
+- TaildwindCSS
+- React Native
+- Testing concepts
+- How to create a NodeJS socket server
 
 ## ⚡ Fun Facts
 
