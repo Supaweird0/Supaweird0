@@ -11,13 +11,13 @@ I'm a passionate web designer and developer based in South Africa. Here's a bit 
 Here are some of the technologies and tools I work with:
 
 - **Programming Languages:** `HTML & CSS` `Javascript` `PHP` `Java` `C++`
-- **Frameworks & Libraries:** `jQuery` `React`
-- **Databases:** `MySQL`
+- **Frameworks & Libraries:** `jQuery` `React` `React Native`
+- **Databases:** `MySQL` 
 - **Tools & Platforms:** `GitHub` `Visual Studio Code`
 
 Technologies/concepts I am in the process of learning:
 - `Next.js` `Node.js`
-- `React` 
+- `Neo4j`
 - Testing with Cypress
 - End-to-end testing, integration testing
 
